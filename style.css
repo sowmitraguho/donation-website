@@ -163,8 +163,8 @@ footer{
 }
 .form{
     width: 800px;
-    height: 200px;
-    padding-top: 150px;
+    height: 150px;
+    padding-top: 100px;
     background-color: rgb(253, 253, 232);
 }
 .input-email{
